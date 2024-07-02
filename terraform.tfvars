@@ -1,3 +1,3 @@
-prefix   = "demo-tf"
+prefix   = "ado-tf"
 location = "West Europe"
 
